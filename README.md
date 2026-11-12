@@ -68,7 +68,6 @@ I am continuously improving my analytical and technical skills through hands-on 
 ### 🤝 Let's Connect
 
 - **LinkedIn:** [Chandan Dakua](https://www.linkedin.com/in/chandan-dakua-690696177/)
-- **GitHub:** [Explore my repositories](YOUR_GITHUB_URL)
 - **Email:** [chandandakua057@gmail.com](mailto:chandandakua057@gmail.com)
 
 ---
